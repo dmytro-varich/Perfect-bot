@@ -83,14 +83,14 @@ physical_activity_text_en = f"""💪 <b>Levels of Physical Activity</b>
 completed_physical_activity_text_en = """😍 <b>Great!</b> Now knowing <b>Your level of physical activity — {activity_level}</b> ✅ 
     
 ✏️ With all the data you've provided — 🤖 I can create <b>Your profile</b> and calculate your
-<b>daily calorie intake</b>, which will be equal to — <code>{target_calories} g per day.</code> 📈"""
+<b>daily calorie intake</b>, which will be equal to — <code>{target_calories} kcal per day.</code> 📈"""
 
 
 # Text: Completed Profile 
 completed_profile_text_en = """✅ <b>Done!</b> Your goal is — <b>{goal}</b> 🎯. And thanks to this, I calculated what calories, proteins, fats, and carbohydrates you need per day! 🤖
 
 📊 <b>Your recommended daily intake:</b>
-🍽 <b>Calories:</b> <code>{target_calories} g per day.</code>
+🍽 <b>Calories:</b> <code>{target_calories} kcal per day.</code>
 🥩 <b>Protein:</b> <code>{target_protein} g per day.</code>
 🥑 <b>Fat:</b> <code>{target_fat} g per day.</code>
 🍞 <b>Carbohydrates:</b> <code>{target_carbohydrate} g per day.</code>
@@ -262,10 +262,10 @@ history_today_text_2_en = """—————————————————
 history_weekly_data_text_en = """ 
 🔹 <b>{days_translation_day}</b> ({weekly_data_date})
   🍽️ <i>Consumed:</i>
-<code>  🔸 Calories:      {weekly_data_consumed_calories} kcal
-  🔸 Protein:       {weekly_data_consumed_protein} g
-  🔸 Fat:           {weekly_data_consumed_fat} g
-  🔸 Carbohydrates: {weekly_data_consumed_carbohydrate} g</code>\n\n"""
+<code>  🔸 Calories:      {weekly_data_consumed_calories:.2f} kcal
+  🔸 Protein:       {weekly_data_consumed_protein:.2f} g
+  🔸 Fat:           {weekly_data_consumed_fat:.2f} g
+  🔸 Carbohydrates: {weekly_data_consumed_carbohydrate:.2f} g</code>\n\n"""
 
 history_week_averages_text_en = """———————————————————
 📊 <b>Average Values:</b>
