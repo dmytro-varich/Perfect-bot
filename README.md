@@ -6,10 +6,10 @@
 
 [Perfect Bot](https://t.me/your_perfect_bot) is your personal assistant for tracking nutrition and achieving healthy lifestyle goals in [Telegram](https://web.telegram.org/). It is designed for those who want to easily manage their diet, monitor their intake of calories, proteins, fats, and carbohydrates, and achieve their fitness goals.
 
-## Technologies
+## 🛠️ Technologies
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/aiogram-3.7.0-009688?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" /> <img src="https://img.shields.io/badge/asyncio-asynchronous-yellow?style=for-the-badge" alt="asyncio" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" /> <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" /> </p>
 
-## Futures
+## 🚀 Futures
 
 - **🧾 Create a Personal Profile**
 
@@ -48,7 +48,7 @@
 
     This repository can serve as a solid foundation for building other Telegram bots using the `aiogram` framework.
 
-## Install
+## ⚙️ Install
 
 1. **Clone the repository:**
 
@@ -80,12 +80,12 @@ TOKEN='your-telegram-bot-token'
 python main.py
 ```
 
-## Project Status
+## 🟢 Project Status
 The project is **not under active development**, but it is running on a [server](https://cloud.tuke.sk/) and remains available for use for an indefinite period
 
 Further development and new features may be added in the future depending on user interest and feedback.
 
-## Contributing
+## 🤝 Contributing
 I will be glad to pull-requests, suggestions and bugreports!
 To contribute:
 
@@ -94,12 +94,17 @@ To contribute:
 3. Make your changes
 4. Submit a pull request
 
-### Feature Ideas
+<details>
+  <summary><strong>Feature Ideas</strong></summary>
 
-| Name                          | Description                                                                                                                                                                                                        |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Meal Notifications**        | Add a feature that allows users to set specific times for meal reminders. The bot would send a notification at those times to help users stay on track with their nutrition plan.                                  |
-| **AI-based Meal Suggestions** | Implement a system using AI or rule-based logic to suggest food items that can help the user reach their daily macronutrient goals. Based on the current intake, the bot would recommend what and how much to eat. |
+  <br>
 
-## Author
+  | Name                          | Description                                                                                                                                                                                                        |
+  | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+  | **Meal Notifications**        | Add a feature that allows users to set specific times for meal reminders. The bot would send a notification at those times to help users stay on track with their nutrition plan.                                  |
+  | **AI-based Meal Suggestions** | Implement a system using AI or rule-based logic to suggest food items that can help the user reach their daily macronutrient goals. Based on the current intake, the bot would recommend what and how much to eat. |
+
+</details>
+
+## 🧑🏻 Author
 Dmytro Varich is the creator of this telegram bot. You can learn more about his projects on his personal [Telegram channel](https://t.me/varich_channel), as well as connect with him via [LinkedIn](https://www.linkedin.com/in/dmytro-varich/) and [Email](<varich.it@gmail.com>).
