@@ -23,8 +23,11 @@
 - 👤 **Profile and Daily Stats**
 
     The bot displays the user's profile along with the current nutrition progress for the day.
-    
 
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/90277836-d818-4a03-86ed-d06ca12f32c7" alt="Perfect Logo" />
+    </p>
+  
 - ⏱ **Quick Food Entry**
 
     Users can instantly log a meal by entering the calories, proteins, fats, and carbs per 100g and the amount consumed — without needing to add the product to the menu first.
@@ -89,9 +92,6 @@ To contribute:
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Meal Notifications**        | Add a feature that allows users to set specific times for meal reminders. The bot would send a notification at those times to help users stay on track with their nutrition plan.                                  |
 | **AI-based Meal Suggestions** | Implement a system using AI or rule-based logic to suggest food items that can help the user reach their daily macronutrient goals. Based on the current intake, the bot would recommend what and how much to eat. |
-
-
-Thanks for your support!
 
 ## Author
 Dmytro Varich is the creator of this telegram bot. You can learn more about his projects on his personal [Telegram channel](https://t.me/varich_channel), as well as connect with him via [LinkedIn](https://www.linkedin.com/in/dmytro-varich/) and [Email](<varich.it@gmail.com>).
