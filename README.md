@@ -16,7 +16,7 @@
     On the first launch, the bot prompts the user to fill out a short profile: gender, age, height, weight, physical activity level, and goal (lose weight, maintain, or gain mass). Based on this information, it calculates a personalized daily intake of calories, proteins, fats, and carbohydrates.
 
   <p align="center">
-      <img src="https://github.com/user-attachments/assets/e64cff43-f029-42dd-9d0e-7e6bbf7254b8" alt="Creating Profile" />
+      <img src="assets/creating_profile.png" alt="Creating Profile" />
   </p>
 
 
@@ -25,7 +25,7 @@
     Users can create a list of their own food items by specifying the calories, proteins, fats, and carbohydrates per 100 grams. These items can then be quickly added to the daily log — just enter the consumed amount, and the bot will automatically calculate the daily and weekly nutrition stats.
 
   <p align="center">
-      <img src="https://github.com/user-attachments/assets/f98ae0d9-dec1-4d8b-92a7-a420e216242b" alt="Product Menu" />
+      <img src="assets/product_menu.png" alt="Product Menu" />
   </p>
 
 
@@ -34,7 +34,7 @@
     The bot displays the user's profile along with the current nutrition progress for the day.
 
     <p align="center">
-      <img src="https://github.com/user-attachments/assets/b5bbb135-90ef-4e15-b096-5db1da1316a6" alt="Personal Profile" />
+      <img src="assets/personal_profile.png" alt="Personal Profile" />
 
 - ⏱ **Quick Food Entry**
 
