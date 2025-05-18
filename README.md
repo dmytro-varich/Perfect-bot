@@ -16,7 +16,7 @@
     On the first launch, the bot prompts the user to fill out a short profile: gender, age, height, weight, physical activity level, and goal (lose weight, maintain, or gain mass). Based on this information, it calculates a personalized daily intake of calories, proteins, fats, and carbohydrates.
 
   <p align="center">
-      <img src="https://github.com/user-attachments/assets/3b6e1f32-0af8-4124-84fe-688188dea352" alt="Perfect Logo" />
+      <img src="https://github.com/user-attachments/assets/1038f9b8-0c50-4a0f-8e50-4b63c9cbde06" alt="Perfect Logo" />
     </p>
 
 
