@@ -14,11 +14,19 @@
 - **🧾 Create a Personal Profile**
 
     On the first launch, the bot prompts the user to fill out a short profile: gender, age, height, weight, physical activity level, and goal (lose weight, maintain, or gain mass). Based on this information, it calculates a personalized daily intake of calories, proteins, fats, and carbohydrates.
-    
+
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/3b6e1f32-0af8-4124-84fe-688188dea352" alt="Perfect Logo" />
+    </p>
+
 
 - 🍱 **User-Defined Product Menu**
 
     Users can create a list of their own food items by specifying the calories, proteins, fats, and carbohydrates per 100 grams. These items can then be quickly added to the daily log — just enter the consumed amount, and the bot will automatically calculate the daily and weekly nutrition stats.
+
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/6d3e9845-050a-442e-9c0d-ebcd001ee6db" alt="Perfect Logo" />
+    </p>
 
 - 👤 **Profile and Daily Stats**
 
@@ -27,7 +35,7 @@
     <p align="center">
       <img src="https://github.com/user-attachments/assets/90277836-d818-4a03-86ed-d06ca12f32c7" alt="Perfect Logo" />
     </p>
-  
+
 - ⏱ **Quick Food Entry**
 
     Users can instantly log a meal by entering the calories, proteins, fats, and carbs per 100g and the amount consumed — without needing to add the product to the menu first.
